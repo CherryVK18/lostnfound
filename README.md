@@ -126,9 +126,9 @@ lostfound/
 
 | Page | Screenshot |
 |------|------------|
-| Homepage | ![Home](./ss/home.jpg) |
-| Item Map | ![Map](./ss/map.jpg) |
-| User Profile | ![Profile](./ss/profile.jpg) |
+| Homepage | ![Home](./home.png) |
+| Item Map | ![Map](./map.png) |
+| User Profile | ![Profile](./profile.png) |
 
 ---
 
