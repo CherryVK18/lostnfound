@@ -1,9 +1,7 @@
 
 # 🧳 Lost & Found Campus Platform
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Now-brightgreen?style=for-the-badge&logo=python)](https://tscharan.pythonanywhere.com)
-[![Django](https://img.shields.io/badge/Django-4.2-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Live Site](https://img.shields.io/badge/🚀_Live_Site-Visit_Now-0D6EFD?style=for-the-badge&logo=python&logoColor=white&labelColor=0D6EFD&color=0D6EFD&gradient=linear-gradient(160deg,#0D6EFD,#6610F2))](https://tscharan.pythonanywhere.com)
 
 A full-stack web application that helps students and staff report, search, and manage lost and found items across campus.
 
