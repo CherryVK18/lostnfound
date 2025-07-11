@@ -1,4 +1,3 @@
-
 # 🧳 Lost & Found Campus Platform
 
 [![Live Site](https://img.shields.io/badge/🚀_Live_Site-Visit_Now-0D6EFD?style=for-the-badge&logo=python&logoColor=white&labelColor=0D6EFD&color=0D6EFD&gradient=linear-gradient(160deg,#0D6EFD,#6610F2))](https://tscharan.pythonanywhere.com)
@@ -16,6 +15,15 @@ A full-stack web application that helps students and staff report, search, and m
 | 📸 **Media Uploads** | Image uploads for better identification |
 | 🔍 **Smart Filters** | Filter by keywords |
 | 📱 **Mobile-Friendly** | Responsive design for all devices |
+
+---
+## 📸 Screenshots
+
+| Page | Screenshot |
+|------|------------|
+| Homepage | ![Home](./home.png) |
+| Item Map | ![Map](./map.png) |
+| User Profile | ![Profile](./profile.png) |
 
 ---
 
@@ -120,31 +128,9 @@ lostfound/
 
 ---
 
-## 📸 Screenshots
-
-| Page | Screenshot |
-|------|------------|
-| Homepage | ![Home](./home.png) |
-| Item Map | ![Map](./map.png) |
-| User Profile | ![Profile](./profile.png) |
-
----
-
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-
 ## 👨‍💻 Author
 
-**T. Sai Charan**  
-[![GitHub](https://img.shields.io/badge/GitHub-CherryVK18-181717?style=flat&logo=github)](https://github.com/CherryVK18)
+* T. Sai Charan – [LinkedIn](https://www.linkedin.com/in/sai-charan-tarra)
 
 ---
 
