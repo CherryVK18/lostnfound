@@ -45,9 +45,7 @@ A full-stack web application that helps students and staff report, search, and m
 
 ---
 
-## 🚀 Quick Start
-
-### Local Development
+## 🚀 Local Development
 
 1. **Clone the repo**
    ```bash
@@ -100,31 +98,6 @@ lostfound/
 ├── lostfound/        # Project settings
 └── manage.py         # Django CLI
 ```
-
----
-
-## 🌐 Deployment
-
-### PythonAnywhere Setup
-
-1. Upload your code via Git or file manager
-2. Create virtual environment:
-   ```bash
-   mkvirtualenv lostnfound --python=python3.10
-   pip install -r requirements.txt
-   ```
-3. Configure WSGI file:
-   ```python
-   import os
-   import sys
-   path = '/home/yourusername/path/to/lostfound'
-   if path not in sys.path:
-       sys.path.append(path)
-   os.environ['DJANGO_SETTINGS_MODULE'] = 'lostfound.settings'
-   from django.core.wsgi import get_wsgi_application
-   application = get_wsgi_application()
-   ```
-4. Set up static files in the Web tab
 
 ---
 
